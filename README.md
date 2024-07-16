@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **thakkaraaditya21@gmail.com**
 
-- 📄 Know about my experiences **2nd Year Btech Student at DAIICT, Gandhinagar**
+- 🎓 Currently enrolled as **2nd Year Btech Student at DAIICT, Gandhinagar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
