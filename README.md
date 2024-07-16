@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **thakkaraaditya21@gmail.com**
+- 📫 You can reach me  at **thakkaraaditya21@gmail.com**
 
 - 🎓 Currently enrolled as **2nd Year Btech Student at DAIICT, Gandhinagar**
 
