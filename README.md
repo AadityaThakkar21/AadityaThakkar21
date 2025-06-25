@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Aaditya Thakkar</h1>
 <h3 align="center">A passionate developer with a strong foundation in various programming languages</h3>
 
-- 🎓 Currently pursuing **B.Tech. (Honours) in Information and Communication Technology** with a **Minor in Computational Science** at **DAU, Gandhinagar**
+- 🎓 Pursuing **B.Tech. (Honours) in Information and Communication Technology** with a **Minor in Computational Science**  
+- 🏫 Studying at **Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT), Gandhinagar**
 
 - 📫 You can reach me at **thakkaraaditya21@gmail.com**
 
