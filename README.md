@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaditya Thakkar</h1>
+<h1 align="center">Hi, I'm Aaditya Thakkar</h1>
 <h3 align="center">A passionate developer with a strong foundation in various programming languages</h3>
 
 - 🎓 Currently enrolled as **2nd Year Btech Student at DAIICT, Gandhinagar**
