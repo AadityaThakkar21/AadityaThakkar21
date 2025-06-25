@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer with a strong foundation in various programming languages</h3>
 
 - 🎓 Pursuing **B.Tech. (Honours) in Information and Communication Technology** with a **Minor in Computational Science**  
-- 🏫 Studying at **Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT), Gandhinagar**
+- 🏫 Studying at **Dhirubhai Ambani University (DAU), Gandhinagar**
 
 - 📫 You can reach me at **thakkaraaditya21@gmail.com**
 
